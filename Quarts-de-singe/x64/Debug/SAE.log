@@ -1,0 +1,8 @@
+﻿  jouer.cpp
+D:\Desktop\Ecole\IUT\Partie B\SAé\Dev\SAE\SAE\jouer.cpp(28,21): warning C4018: '<' : incompatibilité signed/unsigned
+D:\Desktop\Ecole\IUT\Partie B\SAé\Dev\SAE\SAE\jouer.cpp(61,21): warning C4018: '<' : incompatibilité signed/unsigned
+D:\Desktop\Ecole\IUT\Partie B\SAé\Dev\SAE\SAE\jouer.cpp(109,20): warning C4018: '<' : incompatibilité signed/unsigned
+D:\Desktop\Ecole\IUT\Partie B\SAé\Dev\SAE\SAE\jouer.cpp(112,30): warning C4018: '<' : incompatibilité signed/unsigned
+D:\Desktop\Ecole\IUT\Partie B\SAé\Dev\SAE\SAE\jouer.cpp(155,38): warning C4018: '<' : incompatibilité signed/unsigned
+D:\Desktop\Ecole\IUT\Partie B\SAé\Dev\SAE\SAE\jouer.cpp(55): warning C4715: 'lancer_manche' : les chemins de contrôle ne retournent pas tous une valeur
+  SAE.vcxproj -> D:\Desktop\Ecole\IUT\Partie B\SAé\Dev\SAE\x64\Debug\SAE.exe
